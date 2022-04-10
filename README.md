@@ -1,6 +1,7 @@
 # Classical Piano Composer
 
 This project allows you to train a neural network to generate midi music files that make use of a single instrument
+Link to the music generated. : https://youtu.be/f_2D1dbhkAU
 
 ## Requirements
 
