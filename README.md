@@ -1,6 +1,8 @@
 # Bachelor Thesis
 
 Comparing Deep Learning Models in Music Composition
+
+
 You can read my thesis at - 🎯 thesis website: [Comparing Deep Learning Models in Music Composition](https://drive.google.com/file/d/1-hkvqEP80dZFqaJswMg_jRAzZJQCniCB/view?ths=true)
 
 The following is how to use my LSTM to generate music
