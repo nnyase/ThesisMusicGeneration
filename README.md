@@ -1,5 +1,9 @@
 # Bachelor Thesis
-You can read my thesis at - 🎯 thesis website: [Portfolio](https://drive.google.com/file/d/1-hkvqEP80dZFqaJswMg_jRAzZJQCniCB/view?ths=true)
+
+Comparing Deep Learning Models in Music Composition
+You can read my thesis at - 🎯 thesis website: [Comparing Deep Learning Models in Music Composition](https://drive.google.com/file/d/1-hkvqEP80dZFqaJswMg_jRAzZJQCniCB/view?ths=true)
+
+The following is how to use my LSTM to generate music
 This project allows you to train a neural network to generate midi music files that make use of a single instrument
 
 
